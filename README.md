@@ -33,9 +33,9 @@ example:
 https://drfapishop.herokuapp.com/api/v1/sold-products/?shop=2
 
 
-###### Add product to sold list example (replace '1' to id of product):
+###### Add product to sold list example (replace '1' to id of product). {"count": 5} - field for selling product:
 https://drfapishop.herokuapp.com/api/v1/products/1/sell/
-{"count": 5} - field for selling product
+
 
 
 ###### All of sold products:
